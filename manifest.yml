@@ -2,7 +2,7 @@
 declared-services:
   wcsi-conversation-service:
     label: conversation
-    plan: free
+    plan: standard
 applications:
 - name: watson-conversation-slots-intro
   command: npm start
